@@ -10,13 +10,16 @@ The double-sided FR4 PCB implementation uses a hybrid THT and SMD component sele
 
 Key PCB layout details include filled ground planes on both top (F.Cu) and bottom (B.Cu) copper layers to minimize noise, thermal relief connections on grounded pads for effortless hand-soldering, and clean under-IC via transitions (F.Cu to B.Cu) to route traces beneath the DIP-8 footprint without external jumpers. Power and signal connections are exposed through a standard 3-pin 2.54mm pitch header (+5V, GND, OUT) for seamless integration with microcontrollers like Arduino, STM32, or ESP32. The repository contains full KiCad schematic and board design files, Gerber production outputs, and 3D render preview assets for immediate hardware fabrication and prototyping.
 
+ERC and DRC done!
+
 ##Outputs:
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/220d3b01-5ae7-4675-8459-1f7196c16243" />
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/619d8349-228f-4571-8f91-5a8bad928d41" />
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/4c6baba7-9fa6-411a-8952-8adddf3f59bd" />
-<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/a98c2c46-62ac-48ea-80c7-10b1afa58524" />
-<img width="1600" height="891" alt="image" src="https://github.com/user-attachments/assets/ff84fe27-0cfa-4e4d-9741-06e9a27727ee" />
-<img width="1305" height="604" alt="image" src="https://github.com/user-attachments/assets/430216a8-53e4-4230-9262-2557f3ea3dd9" />
+<img width="959" height="433" alt="image" src="https://github.com/user-attachments/assets/a4fdb02e-c849-4505-b35a-b59c34424cb5" />
+<img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/daa932b3-1824-4919-871a-c9fecdead76b" />
+
+
 
 
 
