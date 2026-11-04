@@ -13,11 +13,24 @@ Key PCB layout details include filled ground planes on both top (F.Cu) and botto
 ERC and DRC done!
 
 ##Outputs:
+1. Schematic Diagram:
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/220d3b01-5ae7-4675-8459-1f7196c16243" />
+
+2. Footprint mapping:
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/619d8349-228f-4571-8f91-5a8bad928d41" />
+
+3. Footprint mapping example:
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/4c6baba7-9fa6-411a-8952-8adddf3f59bd" />
+
+4. PCB editor:
 <img width="959" height="433" alt="image" src="https://github.com/user-attachments/assets/a4fdb02e-c849-4505-b35a-b59c34424cb5" />
+
+5. 3D Viewer:
 <img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/daa932b3-1824-4919-871a-c9fecdead76b" />
+
+6. DRC final check:
+<img width="611" height="395" alt="image" src="https://github.com/user-attachments/assets/6d98c072-603a-4134-a653-386bafb43e1c" />
+
 
 
 
